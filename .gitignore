@@ -1,0 +1,22 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 原始素材（转码前的大文件留在本地，别推上去）
+raw/
+*.mov
+*.mkv
+*.avi
+
+# 临时产物
+*.tmp
+*.log
+node_modules/
+
+# 本地预览截图（不推送到仓库）
+.preview/
+
+# 隧道工具（50MB，别推上去）
+scripts/cloudflared.exe
+cloudflared.exe
