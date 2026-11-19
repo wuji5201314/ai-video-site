@@ -29,6 +29,15 @@ window.VIDEOS = [
     desc: '20 秒竖屏 AI 广告片，1080p。原始 35.8MB，转码后 4.2MB。',
     date: '2026-11',
     portrait: true
+  },
+
+  {
+    title: '洁面真人推广 · 20s 成片',
+    src: 'media/cleanser-ad.mp4',
+    poster: 'media/cleanser-ad.jpg',
+    desc: '20 秒，原片 1080x1920',
+    date: '2026-11',
+    portrait: true
   }
 
   // ====== 模板：复制一段改文件名即可 ======
