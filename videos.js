@@ -38,6 +38,33 @@ window.VIDEOS = [
     desc: '20 秒，原片 1080x1920',
     date: '2026-11',
     portrait: true
+  },
+
+  {
+    title: '山野徒步 · 30s 户外真人',
+    src: 'media/hiking-outdoor-30s.mp4',
+    poster: 'media/hiking-outdoor-30s.jpg',
+    desc: '30 秒，540x960 竖屏，户外徒步场景',
+    date: '2026-11',
+    portrait: true
+  },
+
+  {
+    title: '调研 → 成稿 → 审核 · 10s 口播',
+    src: 'media/office-pitch-10s.mp4',
+    poster: 'media/office-pitch-10s.jpg',
+    desc: '10 秒，720x1280 竖屏，办公室口播',
+    date: '2026-11',
+    portrait: true
+  },
+
+  {
+    title: '清晨醒来 · 30s 生活场景',
+    src: 'media/morning-wake-30s.mp4',
+    poster: 'media/morning-wake-30s.jpg',
+    desc: '30 秒，720x1280 竖屏，晨光卧室',
+    date: '2026-11',
+    portrait: true
   }
 
   // ====== 模板：复制一段改文件名即可 ======
