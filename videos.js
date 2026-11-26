@@ -65,6 +65,14 @@ window.VIDEOS = [
     desc: '30 秒，720x1280 竖屏，晨光卧室',
     date: '2026-11',
     portrait: true
+  },
+
+  {
+    title: '每期跑通一个能用的工具 · 2分27秒',
+    src: 'media/tool-tutorial-2m.mp4',
+    poster: 'media/tool-tutorial-2m.jpg',
+    desc: '横屏 960x544，工具教程口播，2 分 27 秒',
+    date: '2026-11'
   }
 
   // ====== 模板：复制一段改文件名即可 ======
