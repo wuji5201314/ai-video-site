@@ -73,6 +73,14 @@ window.VIDEOS = [
     poster: 'media/tool-tutorial-2m.jpg',
     desc: '横屏 960x544，工具教程口播，2 分 27 秒',
     date: '2026-11'
+  },
+
+  {
+    title: '人性知识大赏 · 特效大片',
+    src: 'media/human-nature-effects.mp4',
+    poster: 'media/human-nature-effects.jpg',
+    desc: '横屏 1920x1080 特效大片，1分21秒。你的决定，真的是理性的吗？',
+    date: '2026-11'
   }
 
   // ====== 模板：复制一段改文件名即可 ======
